@@ -1,6 +1,14 @@
 #include <stdio.h>
 
-int main (int argc, char *argv[])
+/**
+ * main - prints all arguments
+ * @argc: argument count
+ * @argv: argument vector
+ *
+ * Return: always zero
+ */
+
+int main(int argc, char *argv[])
 {
 	int i;
 
