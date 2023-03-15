@@ -2,11 +2,11 @@
 #include <stdlib.h>
 
 /**
- * main -  adds positive numbers
- * @argc: argument count
- * @argv: aregument vector
+ * main - ...
+ * @argc: ...
+ * @argv: ...
  *
- * Return: always zero
+ * Return: ...
  */
 
 int main(int argc, char *argv[])
